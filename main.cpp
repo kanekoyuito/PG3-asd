@@ -15,6 +15,7 @@ int main(void) {
 		std::cout << *it_f << endl;
 	}
 
+
 	// 2019”N (¼“ú•é—¢‚ª’Ç‰Á‚³‚ê‚Ä‚¢‚é)
 	printf("\n2019”N\n");
 	for (auto it_f = eki_list.begin(); it_f != eki_list.end(); ++it_f) {
