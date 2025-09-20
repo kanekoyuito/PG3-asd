@@ -17,6 +17,7 @@ int main(void) {
 
 
 	// 2019年 (西日暮里が追加されている)
+
 	printf("\n2019年\n");
 	for (auto it_f = eki_list.begin(); it_f != eki_list.end(); ++it_f) {
 		// 「Nippori」の後に「Nishi-Nippori」を追加
